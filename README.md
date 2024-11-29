@@ -1,44 +1,44 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+# Exercícios Leetcode
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 48<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0133813 |  Italo Bruno Avelino da Silva Melo |
+| 19/0085584 |  Carlos Eduardo Mendes de Mesquita |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo do projeto é exercitar os conhecimentos adquiridos no módulo 2 da matéria com a ajuda do juiz virtual leetcode. 
+
+## Questões
+
+|       Nome               |   Nível |
+|--------------------------|---------|
+|                          |         |
+|                          |         |
+|                          |         |
+|                          |         |
+
+## Vídeo
+
+Ainda não produzidos.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: variada<br>
+**Framework**: não existe<br>
+Basta acessar o número do exercício no leetcode e executar a submissão do código.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Não existe uso do projeto, pois são apenas questões do juiz virtual.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Exercícios selecionados de acordo com o grau de dificuldade dos mesmos.
 
 
 
