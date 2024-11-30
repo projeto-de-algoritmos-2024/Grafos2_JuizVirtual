@@ -27,8 +27,10 @@ O objetivo do projeto é exercitar os conhecimentos adquiridos no módulo 2 da m
 Ainda não produzidos.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
+Média [743.Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) </br>
+
+![Erro1Delay](/assets/Erro1Delay.png)</br>
 ## Instalação 
 **Linguagem**: variada<br>
 **Framework**: não existe<br>
