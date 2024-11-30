@@ -28,7 +28,8 @@ class Solution:
             # checa o valor dos vizinhos e adiciona o valor do delay ao tempo
             for n2,w2 in caminhos[n1]:
                 if n2 not in visitado:
-                    heapq.heappush(delay, (w2, n2))
+                    # adicionando os valores das arestas
+                    heapq.heappush(delay, (w1 + w2, n2))
         # retorna o tempo para atravessar todo o grafo caso a lista de visitados atinja o valor igual ao entregue na funcao n,
         # do contrario, retorna -1
         return tempo if len(visitado) == n else -1

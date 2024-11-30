@@ -28,9 +28,18 @@ Ainda não produzidos.
 
 ## Screenshots
 
-Média [743.Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) </br>
+Média [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) </br>
 
+Erro ao executar Dijkstra(esqueci de implementar a soma dos delays)
 ![Erro1Delay](/assets/Erro1Delay.png)</br>
+
+Acerto dos 3 casos após adicionar a aresta anterior à soma 
+![Caso1Aceito.png](/assets/Caso1Aceito.png)</br>
+![Caso2Aceito.png](/assets/Caso2Aceito.png)</br>
+![Caso3Aceito.png](/assets/Caso3Aceito.png)</br>
+
+Difícil [2577. Minimun Time to Visit a Cell in a Grid] (https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=daily-question&envId=2024-11-29) </br>
+
 ## Instalação 
 **Linguagem**: variada<br>
 **Framework**: não existe<br>
