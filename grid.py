@@ -23,8 +23,8 @@ class Solution:
                 return tempo
             # loop para checar os vizinhos
             for dl,dc in direcao : # direcoes possiveis(linha ou coluna)
-                pl = l + pl # proximo espaco possivel(linha ou coluna)
-                pc = c + pc 
+                pl = l + dl # proximo espaco possivel(linha ou coluna)
+                pc = c + dc 
                 # checa qual o proximo espaco da matriz que podemos acessar
                 if 0 <= pl < linhas and 0 <= pc < colunas and (pl,pc) not in visitado:
                     # adiciona o espaco acessado a lista de visitados para evitar passos extras

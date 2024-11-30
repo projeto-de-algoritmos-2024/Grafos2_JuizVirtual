@@ -40,6 +40,13 @@ Acerto dos 3 casos após adicionar a aresta anterior à soma
 
 Difícil [2577. Minimun Time to Visit a Cell in a Grid] (https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=daily-question&envId=2024-11-29) </br>
 
+Erro ao executar a primeira vez
+![Erro1grid.png](/assets/Erro1grid.png)</br>
+
+Acerto, erro foi falta de atenção(coloquei pl e pc para somar com l e c, era para ser as variáveis que representam as direções no for(dc e dl))
+![Caso1grid.png](/assets/Caso1grid.png)</br>
+![Caso2grid.png](/assets/Caso2grid.png)</br>
+
 ## Instalação 
 **Linguagem**: variada<br>
 **Framework**: não existe<br>
