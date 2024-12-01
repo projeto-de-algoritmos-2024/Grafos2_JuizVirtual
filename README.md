@@ -17,8 +17,8 @@ O objetivo do projeto é exercitar os conhecimentos adquiridos no módulo 2 da m
 
 |       Nome               |   Nível |
 |--------------------------|---------|
-| [743. Network Delay Time] (https://leetcode.com/problems/network-delay-time/description/)                     |  Médio       |
-| [2577. Minimun Time to Visit a Cell In a Grid] (https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=daily-question&envId=2024-11-29)                        |  Difícil       |
+| [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)                     |  Médio       |
+| [2577. Minimun Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=daily-question&envId=2024-11-29)                        |  Difícil       |
 |                          |         |
 |                          |         |
 
@@ -38,7 +38,7 @@ Acerto dos 3 casos após adicionar a aresta anterior à soma
 ![Caso2Aceito.png](/assets/Caso2Aceito.png)</br>
 ![Caso3Aceito.png](/assets/Caso3Aceito.png)</br>
 
-Difícil [2577. Minimun Time to Visit a Cell in a Grid] (https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=daily-question&envId=2024-11-29) </br>
+Difícil [2577. Minimun Time to Visit a Cell in a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=daily-question&envId=2024-11-29) </br>
 
 Erro ao executar a primeira vez
 ![Erro1grid.png](/assets/Erro1grid.png)</br>
