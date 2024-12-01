@@ -24,8 +24,8 @@ O objetivo do projeto é exercitar os conhecimentos adquiridos no módulo 2 da m
 
 ## Vídeo
 
-[Vídeo explicando as questões 743 e 2557](https://youtu.be/qlFEnDPseCY)
-[Vídeo explicando as questões 787 e 3298]()
+[Vídeo explicando as questões 743 e 2557](https://youtu.be/qlFEnDPseCY) </br>
+[Vídeo explicando as questões 787 e 3298](https://youtu.be/troReuQcff0) </br>
 
 ## Screenshots
 
