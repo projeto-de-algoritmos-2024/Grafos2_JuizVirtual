@@ -19,12 +19,13 @@ O objetivo do projeto é exercitar os conhecimentos adquiridos no módulo 2 da m
 |--------------------------|---------|
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)                     |  Médio       |
 | [2577. Minimun Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/?envType=daily-question&envId=2024-11-29)                        |  Difícil       |
-|                          |         |
-|                          |         |
+|[3298. Count Substrings That Can Be Rearranged to Contain a String II](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/)|    Díficil     |
+|[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|    Médio     |
 
 ## Vídeo
 
 [Vídeo explicando as questões 743 e 2557](https://youtu.be/qlFEnDPseCY)
+[Vídeo explicando as questões 787 e 3298]()
 
 ## Screenshots
 
@@ -46,6 +47,18 @@ Erro ao executar a primeira vez
 Acerto, erro foi falta de atenção(coloquei pl e pc para somar com l e c, era para ser as variáveis que representam as direções no for(dc e dl))
 ![Caso1grid.png](/assets/Caso1grid.png)</br>
 ![Caso2grid.png](/assets/Caso2grid.png)</br>
+
+[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+
+![voo1.png](/assets/voo1.png)</br>
+![voo2.png](/assets/voo2.png)</br>
+![voo3.png](/assets/voo3.png)</br>
+
+[3298. Count Substrings That Can Be Rearranged to Contain a String II](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/)
+
+![substring1.png](/assets/substring1.png)</br>
+![substring2.png](/assets/substring2.png)</br>
+![substring3.png](/assets/substring3.png)</br>
 
 ## Instalação 
 **Linguagem**: variada<br>
